@@ -4,7 +4,7 @@ Rootkit checker v1 alpha by bofh@retro-technology.pl
 Ten program NIE usuwa niczego, tylko:
 - szuka podejrzanych plików w typowych miejscach: /dev, /lib, /etc, /tmp, /usr
 - wypisuje ukryte procesy (np. nieobecne w ps ale widoczne w /proc)
-- wprawdza znane biblioteki i pliki często podmieniane przez rootkity
+- sprawdza znane biblioteki i pliki często podmieniane przez rootkity
 
 Użycie:
 cc -o rootkit_checker rootkit_checker.c
