@@ -21,7 +21,7 @@ doas ./rootkit_checker
 
 void check_suspicious_files() {
     const char *suspicious_paths[] = {
-        "/dev/.lib", "/dev/.udev", "/dev/.tmp", "/dev/.rootkit", // change 
+        "/dev/.lib", "/dev/.udev", "/dev/.tmp", "/dev/.rootkit", // add and change 
         "/etc/rc.d/init.d/.../", "/usr/lib/.bkit", "/lib/.lib", // new hacks
         "/tmp/.../", "/usr/bin/ssh2", "/usr/sbin/in.telnetd", NULL // of course
     };
