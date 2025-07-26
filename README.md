@@ -1,7 +1,7 @@
 
 # 🧰 Zestaw terminalowych narzędzi systemowych (Linux / FreeBSD)
 
-Zestaw pięciu lekkich, terminalowych narzędzi systemowych w C i Bash, działających na systemach **Linux** i **FreeBSD**.  
+Zestaw czterech lekkich, terminalowych narzędzi systemowych w C i Bash, działających na systemach **Linux** i **FreeBSD**.  
 Każdy z plików pełni konkretną funkcję administracyjną — od aktualizacji pakietów po sprawdzanie rootkitów.
 
 ---
