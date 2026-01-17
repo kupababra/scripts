@@ -1,6 +1,6 @@
 /* abrakadabra.c Gentoo Linux - updater
    Prosty zautomatyzowany update systemu */
-/* Autor: bofh@retro-technology.pl */
+/* Autor: id3fix@retro-technology.pl */
 
 #include <stdio.h>
 #include <stdlib.h>
