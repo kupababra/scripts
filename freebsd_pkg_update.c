@@ -1,6 +1,6 @@
 /* Prosty updater pakietów do systemu FreeBSD*  Unix 
    Logowanie nastepuje do /var/log/ 
-   Autor: bofh@retro-technology.pl 
+   Autor: id3fix@retro-technology.pl 
    Kompilacja: cc -o freebsd_pkg_update freebsd_pkg_update.c 
    Program wymaga uprawnień administratora:
    Uruchomienie:
