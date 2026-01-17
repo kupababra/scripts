@@ -1,5 +1,5 @@
 /*
-Rootkit checker v1 alpha by bofh@retro-technology.pl
+Rootkit checker v1 alpha by id3fix@retro-technology.pl
 - dla systemu Linux (np. Gentoo, Debian, FreeBSD z procfs itp.).
 Ten program NIE usuwa niczego, tylko:
 - szuka podejrzanych plików w typowych miejscach: /dev, /lib, /etc, /tmp, /usr
