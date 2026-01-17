@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Skrypt do wyszukiwania pakietów w Gentoo
-# bofh@retro-technology.pl
+# id3fix@retro-technology.pl
 
 if [ -z "$1" ]; then
   echo "Podaj nazwę pakietu do wyszukania."
